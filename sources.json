@@ -1,0 +1,7 @@
+{
+  "years": ["2027", "2028"],
+  "sources": [
+    {"company": "Example employer", "provider": "greenhouse", "board": "REPLACE_WITH_VERIFIED_BOARD_TOKEN", "enabled": false},
+    {"company": "Example employer", "provider": "lever", "board": "REPLACE_WITH_VERIFIED_LEVER_TOKEN", "enabled": false}
+  ]
+}
