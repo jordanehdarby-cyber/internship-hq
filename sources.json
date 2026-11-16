@@ -1,6 +1,10 @@
 
 {
   "years": ["2027", "2028"],
+  "graduation_year": 2029,
+  "degree_level": "undergraduate",
+  "us_only": true,
+  "require_explicit_internship_year": true,
   "sources": [
     {
       "company": "Robinhood",
